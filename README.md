@@ -1,4 +1,4 @@
-REQUIEM PROTOCOL
+☣️ REQUIEM PROTOCOL
 
 REQUIEM PROTOCOL é um sistema de monitoramento e gerenciamento de incidentes inspirado no universo de Resident Evil e na Umbrella Corporation.
 O projeto foi desenvolvido com foco em aprendizado e prática de tecnologias modernas de desenvolvimento web, incluindo autenticação com JWT, integração com banco de dados MongoDB e operações CRUD completas.
