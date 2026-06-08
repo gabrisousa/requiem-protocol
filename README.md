@@ -57,7 +57,7 @@ Banco de Dados
 📸 Screenshots
 
 Login
-![Login](./public/login.png)
+![Login](/public/Login.png)
  
 
 
