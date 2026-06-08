@@ -1,4 +1,4 @@
-import { Container, MenuItem, Logo } from './styles'
+import { Container, MenuItem, Logo } from './Styles'
 import { FiGrid, FiAlertTriangle, FiSettings, FiLogOut, FiPlusCircle } from 'react-icons/fi'
 import { GiBiohazard } from 'react-icons/gi'
 import { useNavigate, useLocation } from 'react-router-dom'

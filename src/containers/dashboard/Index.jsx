@@ -2,7 +2,7 @@ import Sidebar from '../sidebar/Index.jsx'
 import { useEffect, useState } from 'react'
 import { motion } from 'framer-motion'
 import GlitchText from '../../components/glitchText/Index.jsx'
-import InfectionChart from '../../components/infectionChart/'
+import InfectionChart from '../../components/infectionChart'
 import activity from '../../data/activity.js'
 import cameras from '../../data/cameras'
 
