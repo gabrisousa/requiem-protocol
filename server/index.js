@@ -14,10 +14,8 @@ mongoose.connect(
   process.env.MONGODB_URI
 )
   .then(() => {
-    console.log('MONGODB CONNECTED')
   })
   .catch((error) => {
-    console.log(error)
   })
 
 app.use(cors())
@@ -147,7 +145,6 @@ app.get('/', (req, res) => {
 })
 
 app.listen(3001, () => {
-  console.log('SERVER RUNNING ON PORT 3001')
 })
 
 app.get('/me', auth, (req, res) => {
