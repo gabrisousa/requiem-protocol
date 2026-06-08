@@ -12,7 +12,7 @@ function LoadingScreen() {
 
       <Logo>
         <img
-          src="/public/favicon.pn"
+          src="/public/favicon.png"
           alt="Umbrella Logo"
         />
 
